@@ -1,7 +1,4 @@
 <h1 align="center">Snoozex</h1>
-<h3 align="center">live better</h3>
-
-
 <p align="left">
 </p>
 
